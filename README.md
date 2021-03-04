@@ -1,11 +1,10 @@
-### Hi there 👋
+Hi there 👋
 
-### asd
-📚 Apasionado por el área de Machine Learning y Data Science. Estudiante de Ingeniería Mecatrónica de noveno ciclo de la Universidad Ricardo Palma con capacidad de hacer modelos predictivos haciendo uso de algoritmos supervisados y no supervisados.
+📚 I'm a passionate Data Science and Machine Learning areas. I'm currently study Mechatronics Engineering. I've abilities to analyse data and make predictive models using supervised algorithim and unsupervised algorithim.
 
-✋🏼 4 años como voluntario en IEEE (the Institute of Electrical and Electronics Engineers) con participación activa en la organización de eventos.
+✋🏼 4 years of experience as a IEEE volunteer (the Institute of Electrical and Electronics Engineers) with active participation as an events organizer.
 
-🔵 Autodidacta, curioso, trabajo en equipo y me encanta nunca parar de aprender.
+🔵 Self-taught, curious, good to work in team and I really love never stop learning.
 
-Puedes contactarme aquí:
+You can contact me here 👇: 
 ser-1998@hotmail.com / sergio.gutierrez@ieee.org
