@@ -6,5 +6,5 @@ Hi there 👋
 
 🔵 Self-taught, curious, good to work in team and I really love never stop learning.
 
-You can contact me here 👇: 
+You can contact me here 👉: 
 ser-1998@hotmail.com / sergio.gutierrez@ieee.org
