@@ -13,8 +13,10 @@ Hi there 👋
 <img alt="python" src="https://img.shields.io/badge/-Python 3-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" /> <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-003b57?style=flat-square&logo=SQLite&logoColor=white" /> <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=Mysql&logoColor=white" />  <img alt="vscode" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
 ## Conctact me here 👇
-[![Twiater]("https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsergi0_gs)](https://twitter.com/sergi0_gs)
+[![Twitter]("https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsergi0_gs)](https://twitter.com/sergi0_gs)
 
 ser-1998@hotmail.com / sergio.gutierrez@ieee.org
 
-![python](https://img.shields.io/badge/-Python%203-blue?logo=python&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python%203-blue?logo=python&logoColor=white&style=flat)
+
+[![Twitter](https://img.shields.io/badge/-twitter%203-blue?logo=twitter&logoColor=white&style=flat)](https://twitter.com/sergi0_gs)
