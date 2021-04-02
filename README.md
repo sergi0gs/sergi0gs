@@ -18,7 +18,8 @@
 
 
 ## Conctact me here 👇
-[![Twitter](https://img.shields.io/badge/-twitter%203-blue?logo=twitter&logoColor=white&style=flat)](https://twitter.com/sergi0_gs)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/sergi0gs/)
+![sergiogsanchez12@gmail.com](https://img.shields.io/badge/-Gmail-FC1212?logo=gmail&logoColor=white&style=flat)
 
 ser-1998@hotmail.com / sergio.gutierrez@ieee.org
 
