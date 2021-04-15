@@ -19,7 +19,7 @@
 
 ## Conctact me here 👇
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/sergi0gs/)
-![Gmail](https://img.shields.io/badge/-sergiogsanchez12@gmail.com-FC1212?logo=gmail&logoColor=white&style=flat)
+[![Gmail](https://img.shields.io/badge/-sergiogsanchez12@gmail.com-FC1212?logo=gmail&logoColor=white&style=flat)](sergiogsanchez12@gmail.com)
 
 
 
