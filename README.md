@@ -1,19 +1,13 @@
 # Hi there 👋
 
-📚 I'm a passionate of Data Science and Machine Learning areas. I'm currently studying Mechatronics Engineering. I've abilities to analyse data and make predictive models using supervised algorithim and unsupervised algorithim.
+I am a Business Intelligence and Data Science professional, specialized in data-driven solutions that drive strategic decision making. I have solid experience in data analytics, data visualization, executive reporting and predictive modeling. In addition, I have worked in process automation and optimization (RPA), bringing a business intelligence approach to generate scalable results aligned with business objectives
 
-✋🏼 4 years of experience as a IEEE volunteer (the Institute of Electrical and Electronics Engineers) with active participation as an events organizer.
-
-🔵 Self-taught, curious, good to work in team and I really love never stop learning.
-
+# Featured Projects
+## 📊 Data Visualization & BI
+## 🤖 Machine Learning & Analytics
+## ⚙️ Data Engineering & Automation
 
 ## Languages & Tools 
-![Python](https://img.shields.io/badge/-Python%203-blue?logo=python&logoColor=white&style=flat) 
-![Git](https://img.shields.io/badge/-Git-f44611?logo=git&logoColor=white&style=flat) 
-![Github](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white&style=flat) 
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=Mysql&logoColor=white&style=flat)
-![Arduino](https://img.shields.io/badge/-Arduino-23C4CC?logo=arduino&logoColor=white&style=flat)
-![SQLite](https://img.shields.io/badge/-SQLite-003b57?logo=SQLite&logoColor=white&style=flat)
 
 
 
